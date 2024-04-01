@@ -1,6 +1,1 @@
-name=input()
-age=input()
-adress=input()
-print("my name is "+name)
-print("my age is "+age)
-print("i live in "+adress)
+
