@@ -1,0 +1,6 @@
+def printrange(r1,r2):
+    for i in range(1,11):
+        print(i)
+
+
+printrange(1,11)
