@@ -1,6 +1,7 @@
-a=(
+a={
     "name":"emc",
     "age":1,
-    "location":
-    )
-print(a)
+    "location": "podukkottai",
+   "students":["shevani","suba"] 
+   }
+print(a.values())
