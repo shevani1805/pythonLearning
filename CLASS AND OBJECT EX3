@@ -1,0 +1,20 @@
+class strudent:
+    def __init__(self):
+        self.name="named fugikfwehkge"
+        self . regno+"53353"
+    def display (self):
+        print("name , self.name")
+        print ("Reg no",self.regno)
+
+s1=student()
+s2=student()
+
+s1.name=""
+s1.regno="2"
+
+s2.name="karthi"
+s2.regno="2"
+
+
+s1.display()
+s2.display()            
